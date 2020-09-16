@@ -54,7 +54,7 @@ Using VSCode and a Command Line:
 1. Fork repo and add TL as collaborator on Github.
 2. Clone your fork (not Lambda's repo by mistake!).
 3. `cd` into your newly cloned repository.
-4. Create a new branch by typing `git checkout -b <firstName-lastName>`.
+4. Create a new branch by typing `git checkout -b <firstName-lastName>`.X
 
 ### Task 2: Minimum Viable Product
 
