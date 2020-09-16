@@ -100,7 +100,7 @@ function getWinners(callback) {
             winners.push(item["Away Team Name"]);
         }
         else if (item["Home Team Goals"] == item["Away Team Goals"]) {
-            winners.push("It was a tie!");
+            winners.push("no one");
         }
         else {
             winners.push("Something went wrong!");
